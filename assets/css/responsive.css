@@ -1,0 +1,49 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+section.m video {
+	margin-top: 0;
+    padding-bottom: 130px;
+    width: 100%;
+}
+.overlay-txt.fadeIn-left {
+    display: none;
+}
+.newsletter-sec .section_title {
+    left: 0;
+}
+.col-md-6.colextra {
+    margin-top: 30px;
+}
+div#hero_video h1 {
+    font-size: 16px !important;
+    padding-top: 0px !important;
+    width: 100% !important;
+}
+div#hero_video {
+    top: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 575px) {
+
+}
+
+	
